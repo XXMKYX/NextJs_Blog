@@ -1,0 +1,19 @@
+.layoutContainer {
+  padding: auto;
+}
+
+.menuContainer {
+  display: flex;
+  padding: 10px;
+  font-size: x-large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  /* justify-content: center; */
+}
+.menuContainer li {
+  display: flex;
+  padding: 10px;
+}
+.menuContainer li:hover {
+  background-color: darkblue;
+  transition-duration: 0.5s;
+}

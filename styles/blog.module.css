@@ -1,0 +1,11 @@
+.container {
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+}
+.container a {
+  color: yellow;
+}
+.list{
+    padding: 15px;
+}
